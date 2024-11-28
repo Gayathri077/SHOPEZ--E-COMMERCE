@@ -1,4 +1,6 @@
 import React, { useEffect, useState } from "react";
+import { motion } from "framer-motion";
+
 import {
   AiOutlineLogout,
   AiOutlineShoppingCart,
@@ -6,7 +8,6 @@ import {
 } from "react-icons/ai";
 import { HiMenuAlt3, HiX } from "react-icons/hi";
 import { MdOutlineDashboard } from "react-icons/md";
-import { motion } from "framer-motion";
 import { useDispatch, useSelector } from "react-redux";
 import { Spinner } from "react-bootstrap";
 
