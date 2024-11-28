@@ -8,9 +8,9 @@ import Footer from "./components/Footer";
 
 const App = () => {
   return (
-    <div className="position-relative">
+    <div className="d-flex flex-column min-vh-100">
       <Header />
-      <main>
+      <main className="py-3">
         <Container>
           <Outlet />
         </Container>
