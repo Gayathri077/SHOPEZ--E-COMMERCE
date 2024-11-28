@@ -4,15 +4,15 @@ Powerful MERN Stack Ecommerce Project using React, Redux, Node.js, Express, Mong
 
 ## Features
 
--   Build powerful and fully functional E-commerce website using MERN
--   Redux (Best state management tool)
--   Authentication using cookies
--   Complete Admin Dashboard to manage products, orders, reviews, users
--   Add third party site like cloudinary to upload images
--   Payment Integration using Stripe
--   Add filters, search and pagination
--   Complete ratings & reviews system
--   Complete Cart & Checkout process
+- Build powerful and fully functional E-commerce website using MERN
+- Redux (Best state management tool)
+- Authentication using cookies
+- Complete Admin Dashboard to manage products, orders, reviews, users
+- Add third party site like cloudinary to upload images
+- Payment Integration using Stripe
+- Add filters, search and pagination
+- Complete ratings & reviews system
+- Complete Cart & Checkout process
 
 [Live Site](https://shopx-mern-app.herokuapp.com/)
 
