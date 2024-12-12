@@ -2,8 +2,8 @@ const express = require("express");
 const router = express.Router();
 
 const {
-    processPayment,
-    sendStripApi,
+  processPayment,
+  sendStripApi,
 } = require("../controller/paymentController");
 
 const { isAuthenticatedUser } = require("../middleware/auth");
